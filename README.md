@@ -7,9 +7,9 @@ and Operations Research (2024).
 
 ## Structure
 The structure of the repository is organised as follows:
-* **analysis.ipynb/** - contains the Python code for data preprocessing, ML comparison, algorithm selection, feature selection and explainability.
-* **df_CLSP.csv/** - contains the data relative to the dataset containing small instances.
-* **df_large.csv/** - contains the data relative to the dataset containing large instances.
+* **analysis.ipynb** - contains the Python code for data preprocessing, ML comparison, algorithm selection, feature selection and explainability.
+* **datasets/df_CLSP.csv** - contains the data relative to the dataset containing small instances.
+* **datasets/df_large.csv** - contains the data relative to the dataset containing large instances.
 
 ## Contact 
 For additional info and clarifications, do not esitate to contact:
